@@ -1,0 +1,1 @@
+Sotto libreria che si occupa della gestione delle configurazioni, processandole da un file
