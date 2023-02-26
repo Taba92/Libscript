@@ -1,5 +1,9 @@
 In fase di sviluppo!
 
+Installazione:
+    pip install git+https://github.com/Taba92/Libscript.git
+
+
 Libreria di utilizzo generico per lo scripting.
 Gestisce:
     -) Logging
