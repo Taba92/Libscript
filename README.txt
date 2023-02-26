@@ -1,3 +1,5 @@
+In fase di sviluppo!
+
 Libreria di utilizzo generico per lo scripting.
 Gestisce:
     -) Logging

@@ -1,0 +1,14 @@
+README.txt
+setup.py
+Backup/BackupManager.py
+Backup/__init__.py
+Configuration/ConfigurationManager.py
+Configuration/__init__.py
+Libscript.egg-info/PKG-INFO
+Libscript.egg-info/SOURCES.txt
+Libscript.egg-info/dependency_links.txt
+Libscript.egg-info/not-zip-safe
+Libscript.egg-info/requires.txt
+Libscript.egg-info/top_level.txt
+Logging/LogManager.py
+Logging/__init__.py
